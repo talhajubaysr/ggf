@@ -1,0 +1,123 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+ *{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+ }
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 0px 0;
+}
+.bg-dark {
+  background-color: #121213!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color:  #dd4c13;
+}
+.navbar-dark .navbar-brand {
+  color: #dd4c13;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar-dark .navbar-brand:hover{
+color: #dd4c13;
+}
+
+/*header*/
+.bg-primary{
+  width: 100%;
+ background: url(../img/carousel4.jpeg);
+ background-size: cover;
+}
+
+.h1, h1 {
+  font-size: 2.5rem;
+  color: #dd4c13;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #dd4c13;
+  font-weight: bolder;
+}
+/*about*/
+
+.x{
+  color: rgb(13, 167, 194);
+  text-decoration: none;
+}
+.x:hover{
+  text-decoration: underline;
+  color: #000;
+}
+/*services*/
+.h5, h5 {
+  font-size: 1.25rem;
+  color: #dd4c13;
+  text-shadow: 1px 1px 1px white,-1px -1px 1px white;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #dd4c13;
+}
+/*contact*/
+img {
+  vertical-align: middle;
+  border-style: none;
+  width: 320px;
+}
+.y{
+  font-size: 50px;
+  color: #dd4c13;
+  padding: 10px;
+}
+.z{
+  font-size: 100px;
+  padding: 20px 10px 0 0;
+}
+/*find us*/
+.form{
+  background: yellow;
+}
+input{
+  padding: 10px 50px;
+  border: none;
+  border-radius: 20px;
+  margin:20px 0 ;
+  
+}
+label{
+  font-size: 30px;
+  color: #dd2013;
+  font-weight: bolder;
+}
+.btn{
+  background-color: #dd4c13;
+  border-radius: 15px;
+}
+.btn:hover{
+  background-color: yellow;
+  color: #dd4c13;
+}
+/*more*/
+.btn-2{
+  font-size: 25px;
+  border: none;
+  width: 50px;
+  color: #dd4c13;
+  font-weight: bolder;
+}
+.btn-2:hover{
+  background-color: #dd4c13;
+  border-radius: 10px;
+  text-decoration: solid;
+  color: rgb(253, 249, 249);
+}
